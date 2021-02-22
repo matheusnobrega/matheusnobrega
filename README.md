@@ -1,5 +1,6 @@
 ## Hi there, I'm Matheus Nóbrega 👋
 Computer Science undergraduate at Universidade de Brasília - UnB.
+<br>
 I'm interested in learning all things related to Data Science and I'm looking to collaborate on projects involving it. 
 
 #### - I’m currently learning:
