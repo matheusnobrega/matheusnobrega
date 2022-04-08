@@ -1,12 +1,11 @@
 # Hi there, I'm Matheus Nóbrega 👋
 Computer Science undergraduate at Universidade de Brasília - UnB.
 <br>
-I'm interested in learning all things related to Data Science and I'm looking to collaborate on projects involving it. 
-
+Currently studying Spring Framework
 ### - I’m currently learning:
-- Django
-- React
-- Web Scraping
+- Java
+- Spring Boot
+- OOP
 
 ### 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/matheus-n%C3%B3brega-duarte-493150168/)
