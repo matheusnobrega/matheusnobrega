@@ -1,9 +1,9 @@
 # Hi there, I'm Matheus Nóbrega 👋
-Computer Science undergraduate at Universidade de Brasília - UnB.
+Computer Science undergraduate at Universidade do Estado de Santa Catarina - UDESC.
 <br>
-Currently studying Spring Framework
 ### - I’m currently learning:
-- Java
+- NLP
+- Django
 - Spring Boot
 - OOP
 
